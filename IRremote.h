@@ -47,7 +47,7 @@
 #define SEND_JVC             0
 
 #define DECODE_SAMSUNG       1
-#define SEND_SAMSUNG         1
+#define SEND_SAMSUNG         0
 
 #define DECODE_WHYNTER       0
 #define SEND_WHYNTER         0
