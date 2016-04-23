@@ -34,7 +34,7 @@
 #define DECODE_RC6           0
 #define SEND_RC6             0
 
-#define DECODE_NEC           0
+#define DECODE_NEC           1
 #define SEND_NEC             0
 
 #define DECODE_SONY          0
@@ -46,7 +46,7 @@
 #define DECODE_JVC           0
 #define SEND_JVC             0
 
-#define DECODE_SAMSUNG       1
+#define DECODE_SAMSUNG       0
 #define SEND_SAMSUNG         0
 
 #define DECODE_WHYNTER       0
